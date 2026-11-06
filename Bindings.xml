@@ -1,0 +1,11 @@
+<Bindings>
+	<Binding name="PAZZIONSPROFESSIONS_TOGGLE" header="PAZZIONSPROFESSIONS">
+		PazzionsProfessions.MainWindow:Toggle()
+	</Binding>
+	<Binding name="PAZZIONSPROFESSIONS_TRACKER">
+		PazzionsProfessions.TrackerWindow:Toggle()
+	</Binding>
+	<Binding name="PAZZIONSPROFESSIONS_MINIGUIDE">
+		PazzionsProfessions.MiniGuide:Toggle()
+	</Binding>
+</Bindings>
